@@ -8,7 +8,7 @@ Notes taken during course [Building components with Angular 1.5](https://app.plu
 2. Routing with components
 3. Composition with components
 
-## Programming components
+## 1. Programming components
 
 ### Introduction
 
@@ -94,3 +94,4 @@ $controller('my-controller', { $scope: scope });
 $componentController('my-component', { $scope: scope });
 ```
 
+## 2. Routing with components
