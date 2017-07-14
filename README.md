@@ -242,4 +242,6 @@ model.goTo = function (movieId) {
 };
 ```
 
+## 3. Composition with components
 
+Last module
